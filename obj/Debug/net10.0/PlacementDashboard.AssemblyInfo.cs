@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlacementDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92196d15ecdb3922ac873172d726b4457eacb250")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c63df2ad6b6e46758c3969a5ab3c61bcba34561")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlacementDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlacementDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
